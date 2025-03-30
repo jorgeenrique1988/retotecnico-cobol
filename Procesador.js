@@ -1,5 +1,5 @@
-const fs = require('fs');
-const csv = require('csv-parser');
+const fs = require('fs'); //Modulo para interactuar con archivos
+const csv = require('csv-parser'); //Modulo para manejar archivos csv en javascript
 
 function leerCSV(nombreArchivo) {
     return new Promise((resolve, reject) => {
