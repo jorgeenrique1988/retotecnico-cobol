@@ -41,6 +41,7 @@ node Procesador.js
 ```
 ├── Procesador.js   # Código principal
 ├── transacciones.csv  # Datos de prueba
+|__ transacciones .txt # Datos en formato texto
 └── README.md  # Documentación del proyecto
 ```
 
