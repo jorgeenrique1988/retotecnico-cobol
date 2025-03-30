@@ -10,7 +10,7 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 
 ## 🚀 Instalación y Ejecución
 ### 1️⃣ Clonar el repositorio
-```sh
+``
 git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git
 cd retotecnico-cobol
 ```
