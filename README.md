@@ -9,13 +9,15 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 - **Conteo de Transacciones:** Número total de créditos y débitos.
 
 ## 🚀 Instalación y Ejecución
-### 1️⃣ Clonar el repositorio
+### 1️⃣ Clonar el repositorio (desde el terminal exoger en donde descargar el repositorio)
 ``
 git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git
-cd retotecnico-cobol
+cd retotecnico-cobol.git
 ```
+luego iniciar el codigo
+node Procesador.js
 
-### 2️⃣ Utilizar el archivo .csv en la carpeta o crear un archivo `transacciones.csv` nuevo o modificar el mimso
+### 2️⃣ Funciona utilizando el archivo .csv en la carpeta (puede crear un archivo `transacciones.csv` nuevo o modificar el mimso)
 ```csv
 id,tipo,monto
 1,Crédito,100.00
