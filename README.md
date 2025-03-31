@@ -28,10 +28,10 @@ id,tipo,monto
 5,Crédito,150.00
 ```
 
-### 3️⃣ Ejecutar el script (puede hacese desde el terminal)
-```nombre de la carpeta DONDE se encuentra el codigo
-C:\Users\****\Desktop\etc
-ejemplo 
+### 3️⃣ Ejecutar el script (puede hacese desde el editor de codigos de su elección)
+```Abrir la apliacion , abrir el codigo y abrir el terminal
+(nombre de la carpeta DONDE se encuentra el codigo)
+ejemplo  :C:\Users\****\Desktop\etc 
 node Procesador.js
 ```
 
