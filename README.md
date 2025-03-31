@@ -9,7 +9,7 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 - **Conteo de Transacciones:** Número total de créditos y débitos.
 
 # 🚀 Instalación y Ejecución
-## tener insatalado Node.js en la computadora (https://nodejs.org/en)
+## Tener insatalado Node.js en la computadora (https://nodejs.org/en)
 ### 1️⃣ Clonar el repositorio (desde el terminal escoger en donde descargar el repositorio)
 ``
 git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git
