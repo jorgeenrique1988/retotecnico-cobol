@@ -12,7 +12,7 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 ### 1️⃣ Clonar el repositorio (desde el terminal escoger en donde descargar el repositorio)
 ``
 git clone https://github.com/jorgeenrique1988/retotecnico-cobol
-cd retotecnico-cobol.git
+cd retotecnico-cobol
 ```
 luego iniciar el codigo
 node Procesador.js
