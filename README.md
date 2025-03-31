@@ -14,10 +14,10 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git
 cd retotecnico-cobol
 ```
-luego iniciar el codigo
+luego iniciar el codigo (comando) : 
 node Procesador.js
 
-### 2️⃣ Funciona utilizando el archivo .csv en la carpeta (puede crear un archivo `transacciones.csv` nuevo o modificar el mimso)
+### 2️⃣ Funciona utilizando el archivo .csv en la carpeta (puede crear un archivo `transacciones.csv` nuevo o modificar el mismo)
 ```csv
 id,tipo,monto
 1,Crédito,100.00
