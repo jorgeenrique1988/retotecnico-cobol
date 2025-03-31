@@ -10,9 +10,9 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 
 # 🚀 Instalación y Ejecución
 ## Tener insatalado Node.js en la computadora (https://nodejs.org/en)
-### 1️⃣ Clonar el repositorio (desde el terminal escoger en donde descargar el repositorio)
+### 1️⃣ Clonar el repositorio ó descargar el zip desde la direccion (https://github.com/jorgeenrique1988/retotecnico-cobol)
 
-* git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git
+* git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git (usar terminal)
 * cd retotecnico-cobol
 
 luego iniciar el codigo (comando) : 
