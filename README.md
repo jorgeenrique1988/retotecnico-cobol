@@ -38,7 +38,7 @@ node Procesador.js
 ## 🛠️ Enfoque y Solución
 - Se usa `fs` para leer el archivo CSV.
 - Se usa `parser` para transformar el archivo CSV a lenguaje JS
-- Se parsean los datos y se calculan los valores requeridos (filtrando y reduciendo a numeros los datos del archivo).
+- Se parsean los datos y se calculan los valores requeridos (filtrando y reduciendo a números los datos del archivo).
 - Se formatea la salida en la terminal para mayor claridad.
 
 ## 📂 Estructura del Proyecto
