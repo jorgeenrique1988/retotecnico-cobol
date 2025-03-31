@@ -8,7 +8,8 @@ Este proyecto es una aplicación de línea de comandos  en **Node.js** que proce
 - **Transacción de Mayor Monto:** ID y valor de la transacción más alta.
 - **Conteo de Transacciones:** Número total de créditos y débitos.
 
-## 🚀 Instalación y Ejecución
+# 🚀 Instalación y Ejecución
+## tener insatalado Node.js en la computadora (https://nodejs.org/en)
 ### 1️⃣ Clonar el repositorio (desde el terminal escoger en donde descargar el repositorio)
 ``
 git clone https://github.com/jorgeenrique1988/retotecnico-cobol.git
@@ -36,7 +37,8 @@ node Procesador.js
 
 ## 🛠️ Enfoque y Solución
 - Se usa `fs` para leer el archivo CSV.
-- Se parsean los datos y se calculan los valores requeridos.
+- Se usa `parser` para transformar el archivo CSV a lenguaje JS
+- Se parsean los datos y se calculan los valores requeridos (filtrando y reduciendo a numeros los datos del archivo).
 - Se formatea la salida en la terminal para mayor claridad.
 
 ## 📂 Estructura del Proyecto
